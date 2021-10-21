@@ -1,0 +1,30 @@
+.first {
+	text-align: center;
+	padding: 180px;
+}
+
+.first-heading {
+	font-size: 90px;
+	color: white;
+}
+
+.first-text {
+	font-size: 18px;
+	color: white;
+	padding: 15px;
+}
+
+.firsttag {
+	text-decoration: none;
+	border: 1px solid ;
+	color: white;
+	background-color:  #33ff33;
+	border-radius: 20px;
+	padding: 8px;
+}
+
+.overlay {
+	background-image: url("reed.jpg");
+	background-repeat: none;
+
+}
