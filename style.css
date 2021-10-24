@@ -1,6 +1,6 @@
 .first {
 	text-align: center;
-	padding: 180px;
+	padding: 300px;
 }
 
 .first-heading {
@@ -18,13 +18,40 @@
 	text-decoration: none;
 	border: 1px solid ;
 	color: white;
-	background-color:  #33ff33;
+	background-color: #ace600;
 	border-radius: 20px;
-	padding: 8px;
+	padding: 12px;
 }
 
+.firsttag:hover {
+
+	color: #33cc33;
+}
 .overlay {
 	background-image: url("reed.jpg");
 	background-repeat: none;
+	background-size: 100%;
+
+}
+
+
+.apple {
+	width: 5%;
+}
+
+.second {
+	text-align: center;
+	background-color:#ace600;
+	padding: 45px;
+}
+
+.text1 {
+	color: white;
+	font-size: 32px;
+}
+
+.text2 {
+	color: white;
+	font-size: 15px;
 
 }
