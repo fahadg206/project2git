@@ -22,6 +22,19 @@
 	border-radius: 20px;
 	padding: 12px;
 }
+.secondtag {
+	text-decoration: none;
+	border: 1px solid ;
+	color: white;
+	background-color: #ace600;
+	border-radius: 20px;
+	padding: 12px;
+
+}
+
+.secondtag:hover {
+	color: #33cc33;
+}
 
 .firsttag:hover {
 
@@ -54,4 +67,62 @@
 	color: white;
 	font-size: 15px;
 
+}
+
+.mic {
+	width: 100%;
+	text-align: center;
+	border-radius: 250px;
+	padding: 20px;
+
+
+}
+
+.third {
+	text-align: left;
+	padding: 125px;
+	
+
+}
+
+.fourth {
+	text-align: left;
+	padding: 125px;
+	background-color:  #1a1a1a;
+}
+
+.fourth h2  {
+	color: white;
+}
+
+.fourth p {
+	color: white;
+}
+
+
+.thirdtag {
+	text-decoration: none;
+	border: 1px solid ;
+	color: black;
+	background-color: white;
+	border-radius: 20px;
+	padding: 12px;
+
+}
+
+.thirdtag:hover {
+	color: #999999;
+}
+
+.iphone {
+	width: 35%;
+	text-align: center;
+	border-radius: 250px;
+	padding: 20px;
+
+
+}
+
+.fourth img {
+	padding-left: 50px;
 }
