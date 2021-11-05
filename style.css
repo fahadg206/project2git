@@ -1,6 +1,7 @@
 .first {
 	text-align: center;
 	padding: 300px;
+
 }
 
 .first-heading {
@@ -126,3 +127,48 @@
 .fourth img {
 	padding-left: 50px;
 }
+
+.fifth  {
+	text-align: center;
+}
+
+.fifth h1 {
+	color: white;
+	text-decoration: none;
+}
+
+
+
+.fifthtag {
+	font-size: 40px;
+	text-decoration: none;
+	color: white;
+
+}
+
+.unleash {
+	background-image: url("write.jpg");
+	padding: 50px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	border: 1px solid grey;
+}
+
+.synergize {
+	background-image: url("synergize.jpg");
+	padding: 50px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.procrastinate {
+	background-image: url("procrastinate.png");
+	padding: 50px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.fifthtag:hover {
+
+}
+
