@@ -172,3 +172,38 @@
 
 }
 
+.sixthtext {
+	font-size: 20px;
+}
+
+.fourthtag {
+	text-decoration: none;
+	border: 1px solid ;
+	color: white;
+	background-color: #ace600;
+	border-radius: 20px;
+	padding: 12px;
+	text-align: center;
+}
+
+.sixth {
+	text-align: center;
+}
+
+
+.pin {
+	width: 10%;
+}
+
+.seventh {
+	text-align: center;
+	background-color: #ace600 ;
+}
+
+.sevtext {
+	color: white;
+}
+
+.sevimg {
+	width: 5%;
+}
