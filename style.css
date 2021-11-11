@@ -42,7 +42,7 @@
 	color: #33cc33;
 }
 .overlay {
-	background-image: url("reed.jpg");
+	background-image: url("images/reed.jpg");
 	background-repeat: none;
 	background-size: 100%;
 
@@ -147,7 +147,7 @@
 }
 
 .unleash {
-	background-image: url("write.jpg");
+	background-image: url("images/write.jpg");
 	padding: 50px;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -155,14 +155,14 @@
 }
 
 .synergize {
-	background-image: url("synergize.jpg");
+	background-image: url("images/synergize.jpg");
 	padding: 50px;
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 
 .procrastinate {
-	background-image: url("procrastinate.png");
+	background-image: url("images/procrastinate.png");
 	padding: 50px;
 	background-repeat: no-repeat;
 	background-size: 100%;
