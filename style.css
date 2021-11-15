@@ -207,3 +207,26 @@
 .sevimg {
 	width: 5%;
 }
+
+
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+     {
+
+     	.first {
+     		padding: 0;
+     	}
+
+     	.third {
+     		padding: 0;
+     	}
+
+     	.fourth {
+     		padding: 100px;
+     	}
+
+     	.sixth {
+     		padding: 50px;
+     	}
+     }
